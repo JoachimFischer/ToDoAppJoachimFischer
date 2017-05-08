@@ -1,5 +1,5 @@
 {
-  "name": "bluemix-todo-apps-node",
+  "name": "ToDoAppJoachimFischer",
   "scripts": {
     "start": "node server.js",
     "test": "mocha test/*.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM-Bluemix/todo-apps.git"
+    "url": "https://github.com/JoachimFischer/ToDoAppJoachimFischer"
   },
   "dependencies": {
     "body-parser": "1.15.2",

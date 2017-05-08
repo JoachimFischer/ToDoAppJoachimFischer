@@ -1,0 +1,9 @@
+applications:
+- name:      ToDoAppJoachimFischer
+  host:      ToDoAppJoachimFischer
+  domain:    mybluemix.net
+  path:      /node/
+  memory:    256M
+  instances: 1
+  services:
+  - ToDoAppJoachimFischerDB
