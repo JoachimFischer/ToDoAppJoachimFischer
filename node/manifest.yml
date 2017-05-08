@@ -1,6 +1,8 @@
 applications:
-- name:      bluemix-todo-node
-  host:      bluemix-todo-node
-  memory:    128M
+- name:      ToDoAppJoachimFischer
+  host:      ToDoAppJoachimFischer
+  domain:    mybluemix.net
+  memory:    256M
+  instances: 1
   services:
-  - todo-db 
+  - ToDoAppJoachimFischerDB
