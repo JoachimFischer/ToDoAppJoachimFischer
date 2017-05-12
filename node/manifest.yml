@@ -2,7 +2,7 @@ applications:
 - name:      ToDoAppJoachimFischer
   host:      ToDoAppJoachimFischer
   domain:    mybluemix.net
-  memory:    256MB
-  instances: 1
+  memory:    512MB
+  instances: 4
   services:
   - ToDoAppJoachimFischerDB
